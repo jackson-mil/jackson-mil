@@ -1,3 +1,1 @@
-Self taught programmer, mainly for fun.
-Open Source OS (I use Archlinux btw) and App tinkerer.
-Project Manager by Profession.
+Not much to see here yet, still learning how to use git.
